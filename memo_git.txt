@@ -22,4 +22,4 @@ git config --global                 => changes or set of global variable (name, 
 git --version                       => shows version and proof proper installation
 git help config -web                => opens browser with doc for config options
 
---end of my git command file--
+--end of my [git-commands] file--
