@@ -1,0 +1,18 @@
+git init                            => creates repo (local), all files are tracked/except .gitignore
+git status                          => shows files with last changes
+git add <file>                      => defines file for commit/save last changes
+git commit <file> -m 'note'         => save last changes in file
+git diff                            => shoes difference between last version and changes
+git log <file>                      => shows all changes in order with name/email/hash
+git show <hash>                     => shows specific change based on hash
+
+
+git remote add <origin> <url>       => add a remote named 'origin' to local repository
+git remote set-url origin <url>     => add a remote named 'origin' to local repository (windows)
+git push <REMOTENAME> <BRANCH>      => push updates of local repo to remote/github repo
+git pull <REMOTENAME> <BRANCHNAME>  => pulls in changes
+git clone <https>                   => downloads a repo from source (github)
+git remote -v                       => view remote addresses
+
+git config --global                 => changes or set of global variable (name, email)
+git --version                       => shows version and proof proper installation
