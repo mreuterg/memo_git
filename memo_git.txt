@@ -1,3 +1,7 @@
+git_memo showing common git commands and meaning
+
+__author__:
+
 git init                            => creates repo (local), all files are tracked/except .gitignore
 git status                          => shows files with last changes
 git add <file>                      => defines file for commit/save last changes
@@ -16,4 +20,4 @@ git remote -v                       => view remote addresses
 
 git config --global                 => changes or set of global variable (name, email)
 git --version                       => shows version and proof proper installation
-git help config -web                => opens browser with doc for config options 
+git help config -web                => opens browser with doc for config options
