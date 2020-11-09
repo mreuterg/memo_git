@@ -1,6 +1,6 @@
 git_memo showing common git commands and meaning
 
-__author__:
+__author__: "Michael Reuter"
 
 git init                            => creates repo (local), all files are tracked/except .gitignore
 git status                          => shows files with last changes
